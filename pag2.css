@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Akatsuki_clouds_shiny_tiles_texture.png/200px-Akatsuki_clouds_shiny_tiles_texture.png);
+    text-align: center;
+    
+}
+h1 {
+    color: white;
+    font-size: 100px;
+}
+
+.Titulo {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: 50%;   
+    transform: translate(-50%,-50%);
+}
